@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm JOYUA
+# 👋 Hi there, I'm Changhyeon
 
 I'm a senior undergraduate majoring in Electrical and Electronics Engineering, specializing in **digital circuit design**, **Verilog RTL development**, and **PPA-optimized hardware implementation**.
 
